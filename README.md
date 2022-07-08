@@ -3,7 +3,17 @@
 <h4 style="line-height="10""> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614880788/17077/mailbox.gif?1614880788" width="42"/>&nbsp; Contact me: </h4>
 
-[![Telegram channel Badge](<https://img.shields.io/badge/-Telegram-rgb(0,136,204)?&logo=telegram&labelColor=limegreen&style=flat-square&logoColor=white>)](https://t.me/Full_Stack_Developer_JS)&nbsp; [![LinkedIn badge](<https://img.shields.io/badge/-LinkedIn-rgb(14,118,168)?&logo=linkedin&labelColor=limegreen&style=flat-square&logoColor=white>)](https://www.linkedin.com/in/skuba)&nbsp; [![Email Badge](<https://img.shields.io/badge/-skuba.anatolii@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white>)](mailto:skuba.anatolii@gmail.com)
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/skuba">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: skuba.anatolii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/Full_Stack_Developer_JS">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, table tennis <img src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/table-tennis-activity.gif" width="26"/>, and music <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
 
