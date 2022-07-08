@@ -5,37 +5,37 @@
 
 [![Telegram channel Badge](<https://img.shields.io/badge/-Telegram-rgb(0,136,204)?&logo=telegram&labelColor=limegreen&style=flat-square&logoColor=white>)](https://t.me/Full_Stack_Developer_JS)&nbsp; [![LinkedIn badge](<https://img.shields.io/badge/-LinkedIn-rgb(14,118,168)?&logo=linkedin&labelColor=limegreen&style=flat-square&logoColor=white>)](https://www.linkedin.com/in/skuba)&nbsp; [![Email Badge](<https://img.shields.io/badge/-skuba.anatolii@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white>)](mailto:skuba.anatolii@gmail.com)
 
-<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, table tennis <img src="https://tenor.com/view/table-tennis-activity-joypixels-ping-pong-whiff-whaff-gif-17198041" width="26"/>, and music <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, table tennis <img src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/table-tennis-activity.gif" width="26"/>, and music <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif?1466717443" width="32"/>&nbsp; My stack and tools: </h4>
 
-<img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
+<img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/javascript.png" />
 
-<img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
+<img title="React" align="left" alt="React" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/react.png" />
 
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
+<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/redux.png" />
 
-<!-- <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/typescript.png" /> -->
+<!-- <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/typescript.png" /> -->
 
-<img title="HTML5" align="left" alt="HTML5" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html-5.png" />
+<img title="HTML5" align="left" alt="HTML5" width="30px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/html-5.png" />
 
-<img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
+<img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/css-3.png" />
 
-<img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/sass.png" />
+<img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/sass.png" />
 
-<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" /> -->
+<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/nodejs.png" /> -->
 
-<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
+<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/webpack.png" />
 
-<img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
+<img title="Git" align="left" alt="Git" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/git.png" />
 
-<img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
+<img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/github.png" />
 
-<!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" /> -->
+<!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/gitlab.png" /> -->
 
-<img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
+<img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/npm1.png" />
 
-<img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
+<img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/vscode.png" />
 <!-- <br/>
 &nbsp;<br/>
 &nbsp;<br/>
