@@ -27,7 +27,7 @@
 
 <!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/nodejs.png" /> -->
 
-<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/webpack.png" />
+<img title="Webpack" align="left" alt="Webpack" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/webpack.png" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/git.png" />
 
@@ -36,6 +36,8 @@
 <!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/gitlab.png" /> -->
 
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/npm1.png" />
+
+<img title="Terminal" align="left" alt="Terminal" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/terminal.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/vscode.png" />
 <!-- <br/>
