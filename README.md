@@ -52,7 +52,7 @@
 
 <img title="Terminal" align="left" alt="Terminal" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/terminal.png" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" \*\*alt="Bash" width="32" height="32"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="32" height="32" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/vscode.png" />
 <!-- <br/>
