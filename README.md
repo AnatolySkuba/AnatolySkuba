@@ -44,11 +44,15 @@
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/github.png" />
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="32" height="32"/>&nbsp;
+
 <!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/gitlab.png" /> -->
 
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/npm1.png" />
 
 <img title="Terminal" align="left" alt="Terminal" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/terminal.png" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" \*\*alt="Bash" width="32" height="32"/>
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/vscode.png" />
 <!-- <br/>
