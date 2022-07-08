@@ -23,7 +23,7 @@
 
 <img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/sass.png" />
 
-<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/logo-download-vector.png" />
+<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/Phaser_3.png" />
 
 <!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/nodejs.png" /> -->
 
