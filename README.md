@@ -3,8 +3,6 @@
 <h4 style="line-height="10""> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614880788/17077/mailbox.gif?1614880788" width="42"/>&nbsp; Contact me: </h4>
 
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
-  <div id="badges">
   <a href="https://www.linkedin.com/in/skuba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
