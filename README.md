@@ -2,7 +2,7 @@
 
 <h4 style="line-height="10""><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
 
-<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, table tennis <img src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/table-tennis-activity.gif" width="26"/>, and play chess <img src="https://flyclipart.com/thumb2/chess-icon-clipart-619460.png" width="26"/>.</h4>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, table tennis <img src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/table-tennis-activity.gif" width="26"/>, and play chess <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSk2uYs2aZ6eGiXaF8jOD6tjv6KTOptmdm6QGNUhKgWWT5Yqb7qkiABW5RfvXerzF7GI&usqp=CAU" width="26"/>.</h4>
 
 ### :mailbox: Contact me:
 
