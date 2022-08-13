@@ -25,6 +25,8 @@
 
 <img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
+<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
+
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="./img/javascript.png" />
@@ -47,8 +49,6 @@
 
 <img title="Photoshop" align="left" alt="Photoshop" width="30px" src="./img/photoshop.png" />
 
-<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
-
 <img title="Git" align="left" alt="Git" width="32px" src="./img/git.png" />
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="./img/github.png" />
@@ -66,8 +66,6 @@
 <img title="VS-code" align="left" alt="VS code" width="32px" src="./img/vscode.png" />
 
 <!--
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
