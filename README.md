@@ -20,23 +20,23 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/typescript.png" />
+<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
-<img title="React" align="left" alt="React" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/react.png" />
+<img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
-<img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/javascript.png" />
+<img title="JavaScript" align="left" alt="JavaScript" width="32px" src="./img/javascript.png" />
 
-<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/Phaser_3.png" />
+<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/Phaser_3.png" />
 
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/redux.png" />
+<img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
 
-<img title="HTML5" align="left" alt="HTML5" width="30px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/html-5.png" />
+<img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
 
-<img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/css-3.png" />
+<img title="CSS3" align="left" alt="CSS3" width="30px" src="./img/css-3.png" />
 
-<img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/sass.png" />
+<img title="SASS" align="left" alt="SASS" width="32px" src="./img/sass.png" />
 
-<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/nodejs.png" /> -->
+<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
 
 <img title="Webpack" align="left" alt="Webpack" width="32px" src="./img/webpack.png" />
 
@@ -46,22 +46,19 @@
 
 <img src="./img/material-ui.png" title="Material UI" alt="Material UI" align="left" width="32"/>
 
-<!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/gitlab.png" /> -->
+<img title="NPM" align="left" alt="NPM" width="32px" src="./img/npm.png" />
 
-<img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/npm1.png" />
-
-<img title="Terminal" align="left" alt="Terminal" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/terminal.png" />
+<img title="Terminal" align="left" alt="Terminal" width="32px" src="./img/terminal.png" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" align="left" alt="Bash" width="32" height="32" />
 
-<img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/vscode.png" />
-<!-- <br/>
+<img title="VS-code" align="left" alt="VS code" width="32px" src="./img/vscode.png" />
+<br/>
 &nbsp;<br/>
 &nbsp;<br/>
 
 <img align="left" alt="poster" style="margin-bottom=-10px; padding=0" src="https&#58;//github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=222222&text_color=F8F8F8" />
-<img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/img-do.jpg" />  
--->
+<img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="./img/img-do.jpg" />
 
 <!--
 Here are some ideas to get you started:
