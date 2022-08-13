@@ -37,11 +37,15 @@
 
 <img title="GraphQL" align="left" alt="GraphQL" width="32px" src="./img/graphql.png" />
 
-<img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
+<img title="SASS" align="left" alt="SASS" width="32px" src="./img/sass.png" />
 
 <img title="CSS3" align="left" alt="CSS3" width="30px" src="./img/css-3.png" />
 
-<img title="SASS" align="left" alt="SASS" width="32px" src="./img/sass.png" />
+<img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
+
+<img title="Figma" align="left" alt="Figma" width="30px" src="./img/figma.png" />
+
+<img title="Photoshop" align="left" alt="Photoshop" width="30px" src="./img/photoshop.png" />
 
 <!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
 
