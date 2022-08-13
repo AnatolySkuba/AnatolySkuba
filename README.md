@@ -4,7 +4,11 @@
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, play table tennis <img src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/table-tennis-activity.gif" width="26"/> and chess <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUg6aaT0r_We8EfUrYwGZsDfkAcSUC99QfQ&usqp=CAU" width="26"/>.</h4>
 
+- 🌱 I’m currently learning <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" />
+
 ### :mailbox: Contact me:
+
+<img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="70" src="./img/img-do.jpg" />
 
   <a href="https://www.linkedin.com/in/skuba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +19,6 @@
   <a href="https://t.me/Full_Stack_Developer_JS">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-  <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="70" src="./img/img-do.jpg" />
 
 ---
 
@@ -52,7 +54,7 @@
 
 <img title="Terminal" align="left" alt="Terminal" width="32px" src="./img/terminal.png" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" align="left" alt="Bash" width="32" height="32" />
+<img title="Bash" align="left" alt="Bash" width="32" src="./img/bash.png"/>
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="./img/vscode.png" />
 
