@@ -49,11 +49,11 @@
 
 <!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
 
-<img title="Webpack" align="left" alt="Webpack" width="32px" src="./img/webpack.png" />
-
 <img title="Git" align="left" alt="Git" width="32px" src="./img/git.png" />
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="./img/github.png" />
+
+<img title="Webpack" align="left" alt="Webpack" width="32px" src="./img/webpack.png" />
 
 <img src="./img/material-ui.png" title="Material UI" alt="Material UI" align="left" width="32"/>
 
