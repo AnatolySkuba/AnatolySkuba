@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
+  <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="70" src="./img/img-do.jpg" />
+
 ---
 
 ### :hammer_and_wrench: My stack and tools:
@@ -53,12 +55,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" align="left" alt="Bash" width="32" height="32" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="./img/vscode.png" />
-<br/>
-&nbsp;<br/>
-&nbsp;<br/>
-
-<img align="left" alt="poster" style="margin-bottom=-10px; padding=0" src="https&#58;//github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=222222&text_color=F8F8F8" />
-<img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="./img/img-do.jpg" />
 
 <!--
 Here are some ideas to get you started:
