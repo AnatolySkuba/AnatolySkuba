@@ -38,7 +38,7 @@
 
 <!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/nodejs.png" /> -->
 
-<img title="Webpack" align="left" alt="Webpack" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/webpack.png" />
+<img title="Webpack" align="left" alt="Webpack" width="32px" src="./img/webpack.png" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/git.png" />
 
