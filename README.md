@@ -57,12 +57,6 @@
 
 <img src="./img/material-ui.png" title="Material UI" alt="Material UI" align="left" width="32"/>
 
-<img title="NPM" align="left" alt="NPM" width="32px" src="./img/npm.png" />
-
-<img title="Terminal" align="left" alt="Terminal" width="32px" src="./img/terminal.png" />
-
-<img title="Bash" align="left" alt="Bash" width="32" src="./img/bash.png"/>
-
 <img title="VS-code" align="left" alt="VS code" width="32px" src="./img/vscode.png" />
 
 <!--
