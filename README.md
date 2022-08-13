@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" />
 
-### :mailbox: Contact me:
-
 <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="70" src="./img/img-do.jpg" />
+
+### :mailbox: Contact me:
 
   <a href="https://www.linkedin.com/in/skuba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
