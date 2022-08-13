@@ -23,15 +23,19 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
-
 <img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
+
+<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="./img/javascript.png" />
 
-<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/Phaser_3.png" />
+<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/phaser_3.png" />
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
+
+<img title="Apollo Client" align="left" alt="Apollo Client" width="32px" src="./img/apollo client.png" />
+
+<img title="GraphQL" align="left" alt="GraphQL" width="32px" src="./img/graphql.png" />
 
 <img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
 
