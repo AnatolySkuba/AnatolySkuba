@@ -23,7 +23,7 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
+<img title="TypeScript" align="left" align="top" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
 <img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
