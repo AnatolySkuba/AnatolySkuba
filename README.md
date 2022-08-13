@@ -29,7 +29,7 @@
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="./img/javascript.png" />
 
-<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/phaser_3.png" />
+<img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/phaser-3.png" />
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
 
