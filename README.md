@@ -40,11 +40,11 @@
 
 <img title="Webpack" align="left" alt="Webpack" width="32px" src="./img/webpack.png" />
 
-<img title="Git" align="left" alt="Git" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/git.png" />
+<img title="Git" align="left" alt="Git" width="32px" src="./img/git.png" />
 
-<img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/github.png" />
+<img title="GitHub" align="left" alt="GitHub" width="32px" src="./img/github.png" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" align="left" width="32"/>
+<img src="./img/material-ui.png" title="Material UI" alt="Material UI" align="left" width="32"/>
 
 <!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/gitlab.png" /> -->
 
