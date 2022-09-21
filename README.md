@@ -45,15 +45,15 @@
 
 <img title="SASS" align="left" alt="SASS" width="32px" src="./img/sass.png" />
 
-<img title="CSS3" align="left" alt="CSS3" width="30px" src="./img/css-3.png" />
+<img title="CSS3" align="left" alt="CSS3" width="32px" src="./img/css-3.png" />
 
-<img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
+<img title="HTML5" align="left" alt="HTML5" width="32px" src="./img/html-5.png" />
 
-<img title="Docker" align="left" alt="Docker" width="30px" src="./img/docker.png" />
+<img title="Docker" align="left" alt="Docker" width="32px" src="./img/docker.png" />
 
-<img title="Figma" align="left" alt="Figma" width="30px" src="./img/figma.png" />
+<img title="Figma" align="left" alt="Figma" width="32px" src="./img/figma.png" />
 
-<img title="Photoshop" align="left" alt="Photoshop" width="30px" src="./img/photoshop.png" />
+<img title="Photoshop" align="left" alt="Photoshop" width="32px" src="./img/photoshop.png" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="./img/git.png" />
 
