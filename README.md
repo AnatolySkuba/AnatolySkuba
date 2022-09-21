@@ -39,7 +39,7 @@
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
 
-<img title="Apollo Client" align="left" alt="Apollo Client" width="32px" src="./img/apollo-client.png" />
+<img title="Apollo Client" align="left" alt="Apollo Client" width="32px" src="./img/apollo-client2.png" />
 
 <img title="GraphQL" align="left" alt="GraphQL" width="32px" src="./img/graphql.png" />
 
