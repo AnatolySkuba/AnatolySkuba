@@ -23,7 +23,13 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<svg> <style>.padding {padding: 10px;}</style><img class="padding" title="Node.js" align="left" alt="Node.js" width="32px"  src="./img/nodejs.png" /></svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/typescript.png">
+  <source media="(prefers-color-scheme: light)" srcset="./img/javascript.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./img/phaser-3.png">
+</picture>
+
+<img title="Node.js" align="left" alt="Node.js" width="32px" style="padding:10px;" src="./img/nodejs.png" />
 
 <img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
