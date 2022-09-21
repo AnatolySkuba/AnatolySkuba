@@ -23,7 +23,7 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<img title="Node.js" align="left" alt="Node.js" width="32px" style="padding:10px;" src="./img/nodejs.png" />
+<div style="padding:10px;"><img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /></div>
 
 <img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
