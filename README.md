@@ -5,7 +5,7 @@
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, play table tennis <img src="./img/table-tennis.gif" width="26"/> and chess <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUg6aaT0r_We8EfUrYwGZsDfkAcSUC99QfQ&usqp=CAU" width="26"/>.
 <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="./img/img-do.jpg" /></h4>
 
-🌱 I’m currently learning <img title="Node.js" alt="Node.js" width="24px" src="./img/nodejs.png" />
+🌱 I’m currently looking for a job <img title="Node.js" alt="Node.js" width="24px" src="./img/nodejs.png" />
 
 ### :mailbox: Contact me:
 
@@ -23,15 +23,19 @@
 
 ### :hammer_and_wrench: My stack and tools:
 
-<img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
+<img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" />
 
-<!-- <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" /> -->
+<img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
 
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="./img/javascript.png" />
 
 <img title="Phaser 3" align="left" alt="Phaser 3" width="32px" src="./img/phaser-3.png" />
+
+<img title="Express" align="left" alt="Express" width="32px" src="./img/express.png" />
+
+<img title="MongoDB" align="left" alt="MongoDB" width="32px" src="./img/mongodb.png" />
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
 
@@ -44,6 +48,8 @@
 <img title="CSS3" align="left" alt="CSS3" width="30px" src="./img/css-3.png" />
 
 <img title="HTML5" align="left" alt="HTML5" width="30px" src="./img/html-5.png" />
+
+<img title="Docker" align="left" alt="Docker" width="30px" src="./img/docker.png" />
 
 <img title="Figma" align="left" alt="Figma" width="30px" src="./img/figma.png" />
 
