@@ -15,7 +15,7 @@
   <a href="mailto: anatoly.skuba@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
   </a>
-  <a href="https://t.me/Full_Stack_Developer_JS">
+  <a href="https://t.me/Anatoly_Skuba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
