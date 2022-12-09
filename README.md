@@ -1,4 +1,4 @@
-<img align="center" alt="Welcome image" width="100%" src="https://github.com/AnatoliiSkuba/AnatoliiSkuba/blob/main/img/backgroun.jpg" />
+<img align="center" alt="Welcome image" width="100%" src="https://github.com/AnatolySkuba/AnatoliiSkuba/blob/main/img/backgroun.jpg" />
 
 <h4 style="line-height="10""><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
 
