@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/skuba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: skuba.anatolii@gmail.com">
+  <a href="mailto: anatoly.skuba@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
   </a>
   <a href="https://t.me/Full_Stack_Developer_JS">
