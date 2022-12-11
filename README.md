@@ -25,7 +25,7 @@
 
 <img title="Node.js" align="left" alt="Node.js" width="32px" src="./img/nodejs.png" />
 
-<img title="React" align="left" alt="React" width="32px" src="./img/react.png" />
+<img title="React, React Native" align="left" alt="React, React Native" width="32px" src="./img/react.png" />
 
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="./img/typescript.png" />
 
@@ -38,6 +38,8 @@
 <img title="MongoDB" align="left" alt="MongoDB" width="32px" src="./img/mongodb.png" />
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
+
+<img title="Firebase" align="left" alt="Firebase" width="32px" src="./img/firebase.png" />
 
 <img title="Apollo Client" align="left" alt="Apollo Client" width="32px" src="./img/apollo-client.png" />
 
