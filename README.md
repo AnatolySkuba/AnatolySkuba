@@ -39,6 +39,8 @@
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="./img/redux.png" />
 
+<img title="React Query" align="left" alt="React Query" width="32px" src="./img/react-query.png" />
+
 <img title="Firebase" align="left" alt="Firebase" width="32px" src="./img/firebase.png" />
 
 <img title="Apollo Client" align="left" alt="Apollo Client" width="32px" src="./img/apollo-client.png" />
