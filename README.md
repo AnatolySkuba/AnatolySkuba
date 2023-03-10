@@ -53,7 +53,7 @@
 
 <img title="Firebase" align="left" alt="Firebase" width="32px" src="./img/firebase.png" />
 
-<img title="Socket.IO" align="left" alt="Socket.IO" width="32px" src="./img/socketio.png.png" />
+<img title="Socket.IO" align="left" alt="Socket.IO" width="32px" src="./img/socketio.png" />
 
 <img title="Docker" align="left" alt="Docker" width="32px" src="./img/docker.png" />
 
