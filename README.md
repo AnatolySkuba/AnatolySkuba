@@ -5,7 +5,7 @@
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, play ping pong <img src="./img/ping-pong.gif" width="26"/> and chess <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUg6aaT0r_We8EfUrYwGZsDfkAcSUC99QfQ&usqp=CAU" width="26"/>.
 <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="./img/img-do.jpg" /></h4>
 
-🌱 I’m currently working as a Frontend Developer in <a href="https://www.skelar.tech/">SKELAR</a>
+🌱 I’m currently working as a Frontend Developer in <a href="https://www.skelar.tech/" style="color=red">SKELAR</a>
 
 ### :mailbox: Contact me:
 
